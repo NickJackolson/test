@@ -10,5 +10,6 @@ int x;
 
 int main()
 {
+    printf("Hello World!\n");
     return x;
 }
